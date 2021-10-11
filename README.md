@@ -1,1 +1,1 @@
-    Mini Exercícios de Python
+    Mini Exercícios Python
